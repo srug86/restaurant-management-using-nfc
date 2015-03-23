@@ -1,0 +1,1 @@
+Proyecto que introduce la tecnología NFC a las gestiones propias de un restaurante, tales como: identificar a los comensales, recoger sus pedidos y gestionar sus pagos.
